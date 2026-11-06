@@ -1,3 +1,3 @@
-let pokedex = ["Pikachu"; "Eevee"]
+let pokedex = ["Pikachu"; "Eevee"; "Charizard"]
 
 let () = List.iter print_endline pokedex
